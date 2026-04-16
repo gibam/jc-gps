@@ -1,0 +1,8 @@
+ignore
+old
+backup
+*.json
+.env
+.venv
+credentials
+client_secret.json

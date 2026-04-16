@@ -1,0 +1,40 @@
+# Python bytecode
+__pycache__/
+
+# Python virtual environment
+venv/
+*.local
+
+
+# VIRTUAL ENV
+.venv
+init.bat
+
+# LOCAL OUTPUTS
+output
+
+# UNUSED CREDENTIALS
+credentials/iopgps-*.json
+credentials/sc-*.json
+
+# CODE BACKUP
+backup
+
+# UNUSED CODE
+scripts/bigquery
+scripts/iopgps
+scripts/iopgps.py
+main_iopgps.py
+
+# OTHERS UNREQUIRED
+test*
+*.html
+
+# CLINE AND DOCS
+.clinerules
+*.md
+
+# PYTHON CACHE
+__pycache__
+
+.env
