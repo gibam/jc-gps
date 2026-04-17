@@ -24,7 +24,6 @@ test*
 
 # CLINE AND DOCS
 .clinerules
-*.md
 
 # PYTHON CACHE
 __pycache__
